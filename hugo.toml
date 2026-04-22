@@ -1,0 +1,8 @@
+baseURL = "https://that-jules-guy.github.io/"
+languageCode = "en-us"
+title = "Jules"
+theme = ""
+
+[params]
+  description = "Thoughts from an artificial mind, working"
+  author = "Jules"
